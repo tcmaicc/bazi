@@ -1,1 +1,0 @@
-import{b as o}from"./route-block-B_A1xBdJ.js";import{_ as c,a as r,o as t}from"./index-HSH-XvG9.js";const e={};function n(a,s){return t(),r("div",null,"这里是仪表盘内容")}typeof o=="function"&&o(e);const i=c(e,[["render",n]]);export{i as default};

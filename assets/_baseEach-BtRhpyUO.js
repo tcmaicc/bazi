@@ -1,0 +1,1 @@
+import{a as t}from"./merge-xHsz74jZ.js";import{N as i,G as b}from"./index-CfkMR252.js";function h(a,s){return a&&t(a,s,i)}function m(a,s){return function(r,f){if(r==null)return r;if(!b(r))return a(r,f);for(var u=r.length,e=-1,n=Object(r);++e<u&&f(n[e],e,n)!==!1;);return r}}var p=m(h);export{h as a,p as b};
